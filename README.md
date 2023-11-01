@@ -9,6 +9,6 @@ $$Probability_-theory - Math_-statistic$$
 $$W(A) =\frac{m}{n}; C_n^k=\frac{n!}{k!(n-k)!}; A^k_n=\frac{n!}{(n-k)!};P(B|A)=\frac{P(A|B)*P(B))}{P(A)}$$
 
 #### Task_2. Дискретные распределения вероятностей
->"Формула Бернулли, распределение Пуассона"<p>
+>"Формула Бернулли, распределение Пуассона, биноминальная вероятность"<p>
 
-$$P_n(X=k) = C_n^k*p^{k}*q^{(n-k)}; P_m \approx\frac{\lambda^m}{m!}*e^-\lambda$$
+$$P_n(X=k) = C_n^k*p^{k}*q^{(n-k)}; P_m \approx\frac{\lambda^m}{m!}*e^{-\lambda}; np-q\leq k_o \leq np+q$$
