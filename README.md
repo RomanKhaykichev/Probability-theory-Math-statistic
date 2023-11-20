@@ -17,3 +17,14 @@ $$P_n(X=k) = C_n^k*p^{k}*q^{(n-k)}; P_m \approx\frac{\lambda^m}{m!}*e^{-\lambda}
 >"Математическое ожидание генеральной совокупности и выборки, дисперсия ген. совокупности (смещенная) и выборки (несмещенная <100), квартиль"<p>
 
 $$M(x) =\frac{1}{n} \sum^n_{i=1}x_i; \bar{X} =\frac{1}{m} \sum^m_{i=1}x_i; \sigma^2 = \frac{\sum_{i=1}^m(x_i-\bar{x})^2}{m}; s^2 = \frac{\sum_{i=1}^n(x_i-\bar{x})^2}{n-1}; Q = \frac{n*k}{100}$$
+
+#### Task_4. Непрерывная случайная величина
+> "Нормальное распределение - Гаусса, стандартное нормальное распределение, описательная статистика равномерного распределения"
+
+$$f(x) = \frac{1}{\sigma\sqrt{2\pi}}*e^{-\frac{(x-a)^2}{2\sigma^2}}; z = \frac{x-\mu}{\sigma}; M(x) = \frac{a+b}{2}; D = \frac{(d-a)^2}{12}$$
+
+>"Правило 3-х сигм"
+
+![3sigma](/Probability_theory-Math_statistic/3-sigma.png)
+
+<img src="/Probability_theory-Math_statistic/3-sigma.png" width="300" height="150">
