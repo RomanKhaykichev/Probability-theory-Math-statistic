@@ -21,10 +21,8 @@ $$M(x) =\frac{1}{n} \sum^n_{i=1}x_i; \bar{X} =\frac{1}{m} \sum^m_{i=1}x_i; \sigm
 #### Task_4. Непрерывная случайная величина
 > "Нормальное распределение - Гаусса, стандартное нормальное распределение, описательная статистика равномерного распределения"
 
-$$f(x) = \frac{1}{\sigma\sqrt{2\pi}}*e^{-\frac{(x-a)^2}{2\sigma^2}}; z = \frac{x-\mu}{\sigma}; M(x) = \frac{a+b}{2}; D = \frac{(d-a)^2}{12}$$
+$$f(x) = \frac{1}{\sigma\sqrt{2\pi}}*e^{-\frac{(x-a)^2}{2\sigma^2}}; z = \frac{x-\mu}{\sigma}; M(x) = \frac{a+b}{2}; D = \frac{(b-a)^2}{12}$$
 
 >"Правило 3-х сигм"
 
-![3sigma](/Probability_theory-Math_statistic/3-sigma.png)
-
-<img src="/Probability_theory-Math_statistic/3-sigma.png" width="300" height="150">
+![3sigma](3-sigma.png)
