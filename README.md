@@ -26,3 +26,13 @@ $$f(x) = \frac{1}{\sigma\sqrt{2\pi}}*e^{-\frac{(x-a)^2}{2\sigma^2}}; z = \frac{x
 >"Правило 3-х сигм"
 
 ![3sigma](3-sigma.png)
+
+#### Task_5. Тестирование гипотез
+>"Статистическая гипотеза, P-value, критерий Стьюдента, тест Шапиро-Уилка"
+
+$$H_0:\mu_1=\mu_0; H_1:\mu_1>\mu_0; z_n=\frac{\bar{x}-\mu}{\sigma/\sqrt{n}}; t_н=\frac{\bar{x}-\mu}{\sigma_н/\sqrt{n}} $$
+
+
+>"QQ график (quantile-quantile)
+
+![quantile](QQ(quantile).png)
