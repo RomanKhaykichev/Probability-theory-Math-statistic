@@ -58,8 +58,9 @@ Se = \frac{\sigma}{\sqrt{n}} $$
 >"Доверительный интервал, интервальная оценка, доверительный интервал для доли, сравнение долей"
 
 $$\bar{x} \pm z_{\frac{\alpha}{2}}\cdot\frac{\sigma}{\sqrt{n}};
-\Delta \pm t_{\frac{\alpha}{2}}\cdot S_\Delta;
-\Delta = \bar{x}_1 - \bar{x}_2;
+\Delta \pm t_{\frac{\alpha}{2}}\cdot S_\Delta$$
+
+$$\Delta = \bar{x}_1 - \bar{x}_2;
 S_\Delta = \sqrt{\frac{D}{n_1}+\frac{D}{n_2}}$$
 
 $$D = \frac{1}{2}(D_1+D_2);
@@ -89,6 +90,7 @@ $$x^2_r = \frac{12}{n\cdot k(k+1)}\cdot\sum(R_i-\bar{R})^2$$
 
 #### Task_8. Корреляционный анализ
 >"Корреляция, коэффицент кореляции, ковариация, коэффицент Пирсона, Спирмена"
+
 $$cov_{xy} = M(XY) - M(X)\cdot M(Y);
 r_{xy} = \frac{cov_{xy}}{\sigma_x\cdot \sigma_y}$$
 
