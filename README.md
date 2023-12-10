@@ -60,8 +60,7 @@ Se = \frac{\sigma}{\sqrt{n}} $$
 $$\bar{x} \pm z_{\frac{\alpha}{2}}\cdot\frac{\sigma}{\sqrt{n}};
 \Delta \pm t_{\frac{\alpha}{2}}\cdot S_\Delta$$
 
-$$\Delta = \bar{x}_1 - \bar{x}_2;
-S_\Delta = \sqrt{\frac{D}{n_1}+\frac{D}{n_2}}$$
+$$\Delta = \bar{x}_1 - \bar{x}_2; S_\Delta = \sqrt{\frac{D}{n_1}+\frac{D}{n_2}}$$
 
 $$D = \frac{1}{2}(D_1+D_2);
 \sigma = \sqrt{p(1-p)};
@@ -127,3 +126,13 @@ $$mse = \frac{\sum(y-y_{pred})^2}{n};
 
 $$F_p = MS_f/MS_o;
 sigmoid = \frac{1}{1+e^{-modl}}$$
+
+#### Task_10. Дисперсионный анализ
+>"Однофакторный, post hoc tests (Ньюмена-Лейлса, Тьюки, поправка Бонферрони), двухфакторный, ANOVA"
+
+$$F_н = \frac{\sigma_ф^2}{\sigma_{ост}^2};
+\sigma_ф^2 = \frac{S_ф^2}{k-1};
+\sigma_{ост}^2 = \frac{\S_ф^2}{n-k}$$
+
+$$y_{ijk} = M+A_i+B_j+AB+E_{ijk};
+SS_т = SS_A+SS_B+SS_{AB}+SS_E$$
