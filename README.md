@@ -60,7 +60,8 @@ Se = \frac{\sigma}{\sqrt{n}} $$
 $$\bar{x} \pm z_{\frac{\alpha}{2}}\cdot\frac{\sigma}{\sqrt{n}};
 \Delta \pm t_{\frac{\alpha}{2}}\cdot S_\Delta$$
 
-$$\Delta = \bar{x}_1 - \bar{x}_2; S_\Delta = \sqrt{\frac{D}{n_1}+\frac{D}{n_2}}$$
+$$\Delta = \bar{x}_1 - \bar{x}_2;
+S_{\Delta} = \sqrt{\frac{D}{n_1}+\frac{D}{n_2}}$$
 
 $$D = \frac{1}{2}(D_1+D_2);
 \sigma = \sqrt{p(1-p)};
